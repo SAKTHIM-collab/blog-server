@@ -1,0 +1,4 @@
+Title: Ethics in AI
+Tags: AI, Ethics, Technology
+
+As AI continues to evolve, ethical concerns are surfacing. We must ensure transparency, fairness, and accountability in every application.

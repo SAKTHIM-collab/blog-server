@@ -1,0 +1,1 @@
+This blog contains badword1 which should be flagged.
